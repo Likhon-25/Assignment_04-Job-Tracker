@@ -215,10 +215,5 @@ updateNotAppliedButtons();
 
 
 
-echo "# Assignment_04-Job-Tracker" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Likhon-25/Assignment_04-Job-Tracker.git
-git push -u origin main
+
+
